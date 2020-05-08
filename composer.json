@@ -1,5 +1,5 @@
 {
-    "name": "antares/accessible-bundle",
+    "name": "delormejonathan/accessible-bundle",
     "type": "symfony-bundle",
     "description": "A bundle to easily use Accessible in Symfony projects.",
     "keywords": ["accessible", "get", "set", "pojo", "popo", "class", "properties", "getter", "setter", "annotation"],
@@ -10,7 +10,7 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "antares/accessible": ">=3.1"
+        "delormejonathan/accessible": ">=3.1"
     },
     "autoload": {
         "psr-4": {"Antares\\Bundle\\AccessibleBundle\\": ""}
